@@ -2,6 +2,10 @@
 
 Summon a fireball breathing t-rex to wreak havoc in your browser
 
+# demo
+
+[GIF](http://i.imgur.com/De3xwkU.gifv)
+
 # to use
 
 Requires `rlwrap` `lein` and `clojure` to be installed on your machine.
